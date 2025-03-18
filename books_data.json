@@ -1,0 +1,46 @@
+{
+    "books": [
+        {
+            "title": "harry potter",
+            "author": "random",
+            "year": "2002",
+            "genre": "2033",
+            "read": false,
+            "favorite": false
+        },
+        {
+            "title": "hampty dumpty",
+            "author": "random",
+            "year": "2002",
+            "genre": "2002",
+            "read": false,
+            "favorite": true
+        },
+        {
+            "title": "flowers",
+            "author": "fairy",
+            "year": "2000",
+            "genre": "2000",
+            "read": true,
+            "favorite": true
+        }
+    ],
+    "favorites": [
+        {
+            "title": "hampty dumpty",
+            "author": "random",
+            "year": "2002",
+            "genre": "2002",
+            "read": false,
+            "favorite": true
+        },
+        {
+            "title": "flowers",
+            "author": "fairy",
+            "year": "2000",
+            "genre": "2000",
+            "read": true,
+            "favorite": true
+        }
+    ]
+}
